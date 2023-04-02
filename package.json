@@ -1,0 +1,7 @@
+{
+  "name": "typescript-parameters-required",
+  "main": "index.ts",
+  "devDependencies": {
+    "typescript": "^5.1.0-dev.20230402"
+  }
+}
